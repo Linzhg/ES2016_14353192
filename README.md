@@ -26,13 +26,13 @@
 
 　　　　下图为运行configure之后的截图
 
-　　　　！[configure后的截图](configure之后的截图.png)
+　　　　![configure后的截图](configure之后的截图.png)
 
 　　　　`$ sudo make install`
 
 　　　　下图为编译完后文件目录
 
-　　　　！[make_install后的截图](make_install后的截图.png)
+　　　　![make_install后的截图](make_install后的截图.png)
 
 　　　　最后执行pwd记录当前的工作路径
 
@@ -54,7 +54,7 @@
 
 　　　　下图为编译完后的结果
 
-　　　　！[最后结果的截图](最后结果.png)
+　　　　![最后结果的截图](最后结果.png)
 
 ##*Experimental experience
 
